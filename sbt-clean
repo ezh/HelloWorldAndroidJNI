@@ -1,0 +1,14 @@
+export ANDROID_HOME=${HOME}/0projectsAndroid/android-sdk-linux
+export ANDROID_NDK_HOME=${HOME}/0projectsAndroid/android-ndk-r7
+rm -r bin/classes
+rm -r bin/cache
+rm -r bin/res
+rm -r gen/org
+rm -r src/libs
+rm -r src/obj
+rm bin/*.ap?
+rm bin/*.dex
+~/bin/sbt clean
+rm -r project/project
+rm -r project/target
+rm .cache

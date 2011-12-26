@@ -1,0 +1,67 @@
+android:aapt-generate
+exit
+android:package-
+android:package-debug
+android:emulator-start
+android:install-emulator
+android:package-debug
+android:install-emulator
+reload
+:package-debug
+exit
+android:install-emulator
+android:package-debug
+android:install-emulator
+clean
+android:package-debug
+android:install-emulator
+android:package-debug
+android:install-emulator
+exit
+android:package-debug
+android:install-emulator
+clean
+android:package-debug
+android:install-emulator
+exit
+clean
+android:package-debug
+android:install-emulator
+show android:proguard-optimization
+show android:proguard-optimizations
+exit
+clean
+android:package-debug
+android:install-emulator
+exit
+clean
+android:package-debug
+android:install-emulator
+exit
+clean
+android:package-debug
+exit
+android:package-debug
+debug
+android:package-debug
+android:install-emulator
+exit
+android:package-debug
+android:install-emulator
+android:package-debug
+exit
+android:package-debug
+exit
+android:package-debug
+exit
+show nativeLibrariesPath
+show nativeLibrariesPath in Android
+show natives-lib-path
+natives-lib-path
+show android:natives-lib-path
+quit
+exit
+show android:natives-lib-path
+android:package-release
+android:package-debug
+exit
