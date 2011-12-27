@@ -11,7 +11,7 @@ jint JNICALL add(JNIEnv * env, jobject obj, jint value1, jint value2) {
 // -----------------------------------------------------------------------------
 
 /*
- * Table of methods associated with the DrmRawContent class.
+ * Table of methods associated with the HelloWorldAndroidJNI class.
  */
 static JNINativeMethod HelloWorldMethods[] = {
     /* name, signature, funcPtr */

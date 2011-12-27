@@ -65,3 +65,5 @@ show android:natives-lib-path
 android:package-release
 android:package-debug
 exit
+android:package-debug
+exit

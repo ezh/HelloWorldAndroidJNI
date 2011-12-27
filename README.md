@@ -46,4 +46,6 @@ PS if you want to turn off useProguard in Android than modify emulator as descri
 
 Now you may build and deploy your source code with sbt. And you may debug and edit your code with Eclipse (right click on project -> Run As -> Android Application).
 
+For dependency management use IvyDE plugin as described at IntegrationSupport of SBT
+
 King Regards
